@@ -15,8 +15,8 @@ function App() {
     </div>
     
     <div>
-          <button className='bg-sky-400 hover:bg-sky-600  text rounded-md text-zinc-50 absolute right-166 px-6 py-2 mt-7'onClick={() => alert('Kupal')}>Add</button>
-          <button className='bg-red-500 hover:bg-red-600 text rounded-md text-zinc-50 absolute right-140 px-5 py-2 mt-7'onClick={() => alert('kupal talaga')}>Delete</button>
+          <button className='bg-sky-400 hover:bg-sky-600  text rounded-md text-zinc-50 absolute right-166 px-6 py-2 mt-7'onClick={() => alert('Added')}>Add</button>
+          <button className='bg-red-500 hover:bg-red-600 text rounded-md text-zinc-50 absolute right-140 px-5 py-2 mt-7'onClick={() => alert('Deleted')}>Delete</button>
     </div>
     
 
